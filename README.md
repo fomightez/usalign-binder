@@ -1,6 +1,6 @@
 # usalign-binder
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomigthez/usalign-binder/master?urlpath=lab/tree/index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/usalign-binder/master?urlpath=lab/tree/index.ipynb)
 
 [US-align](https://zhanggroup.org/US-align/)
 
