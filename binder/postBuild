@@ -3,7 +3,7 @@
 # clone the repo with US-align
 git clone https://github.com/pylelab/USalign.git
 # Compile usalign
-cd usalign
+cd USalign
 make
 
 # Create alias for usalign ("~/.local/bin" is in the PATH)
