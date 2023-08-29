@@ -1,0 +1,19 @@
+name: pymol-binderized
+channels:
+  - schrodinger
+  - samoturk
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python
+  - pymol>=2.3
+  - pandas
+  - matplotlib
+  - seaborn
+  - libglu
+  - glew
+  - netpbm
+  - pip
+
+  
