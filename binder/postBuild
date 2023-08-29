@@ -10,4 +10,4 @@ make
 mkdir -p ~/.local/bin
 cd ~/.local/bin
 mv ~/USalign .
-ln -s ~/.local/bin/USalign/USalign USalign
+#ln -s ~/.local/bin/USalign/USalign USalign
