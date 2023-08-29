@@ -1,4 +1,13 @@
 #!/bin/bash
 
-# Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyterlab/geojson-extension jupyterlab-drawio
+# clone the repo with US-align
+git clone https://github.com/pylelab/USalign.git
+# Compile usalign
+cd usalign
+make
+
+# Create alias for usalign ("~/.local/bin" is in the PATH)
+mkdir -p ~/.local/bin
+cd ~/.local/bin
+mv ~/USalign .
+ln -s ~/.local/bin/USalign/USalign USalign
