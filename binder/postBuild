@@ -9,5 +9,5 @@ make
 # Create alias for usalign ("~/.local/bin" is in the PATH)
 mkdir -p ~/.local/bin
 cd ~/.local/bin
-mv ~/USalign .
-#ln -s ~/.local/bin/USalign/USalign USalign
+mv ~/USalign usalign
+ln -s ~/.local/bin/usalign/USalign USalign
