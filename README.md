@@ -34,7 +34,7 @@ Nature Methods, 19: 1109-1115 (2022)  [PMID: 36038728](https://pubmed.ncbi.nlm.n
 
 The license information for the software is available [on the USalign GitHub Repository page](https://github.com/pylelab/USalign/blob/master/LICENSE).
 
-***Clarifying Software Attribution: I, Wayne, am not involved in the US-algn or TM-align software at all. Those listed above are the developers and distributors of PatMAtch. See their materials. I simply set up this repository to make the software useable on the command line without installation headaches.***
+***Clarifying Software Attribution: I, Wayne, am not involved in the US-algn or TM-align software at all. Those listed above are the developers and distributors of US-align and TM-align. See their materials. I simply set up this repository to make the software useable on the command line without installation headaches.***
 
 I, Wayne, did code a Python-based utility for use with the results from command line US-align/TM-align; it is available [here](https://github.com/fomightez/sequencework/tree/master/tmalign-utilities/) and utilized in the notebooks in this repository to process the results and allow easily converting the results to other forms.
 
